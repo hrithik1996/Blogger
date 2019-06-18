@@ -5,7 +5,7 @@ class Config:
     SQLALCHEMY_DATABASE_URI = 'sqlite:///site.db'
     MAIL_SERVER = 'smtp.gmail.com'
     MAIL_PORT = 587
-    MAIL_USERNAME = 'hrithik.kumar.108@gmail.com'
-    MAIL_PASSWORD = 'hrithik1996@'
+    MAIL_USERNAME = 'xyz@xyz.com'
+    MAIL_PASSWORD = 'xyz'
     MAIL_USE_TLS = True
     MAIL_USE_SSL = False
